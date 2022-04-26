@@ -226,7 +226,7 @@ pip-log.txt
 ## RSS-Bridge
 ##############
 /cache
-/whitelist.txt
+#/whitelist.txt
 DEBUG
 config.ini.php
 
